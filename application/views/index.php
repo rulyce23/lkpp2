@@ -46,11 +46,11 @@
             <div class="col-md-2">
                 <select class="form-control courier" name="courier" id="courier">
                     <option value="jne">JNE</option>
-                    <option value="pos">POS Indonesia</option>
+                    <option value="pos">POS</option>
                     <option value="jnt">J&T Express</option>
                     <option value="sicepat">SiCepat</option>
                     <option value="tiki">TiKi</option>
-                    <option value="anteraja">AnterAja</option>
+                    <option value="anteraja">Anter Aja</option>
                     <option value="wahana">Wahana Express</option>
                     <option value="ninja">Ninja Express</option>
                     <option value="lion">Lion Parcel</option>
@@ -60,7 +60,7 @@
         </div>
         <div class="row mt-3">
           <div class="col-md-6">
-            <button class="btn btn-info" type="button" id="search-button">Search</button>
+            <button class="btn btn-info" type="button" id="search-button">Cari Data</button>
           </div>
         </div>
         </div>
